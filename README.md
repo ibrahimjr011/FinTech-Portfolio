@@ -8,7 +8,7 @@ I am Ibrahim Hamdi, a Master’s student in Digital Finance (2024–2026) at ESP
 - Soft: Communication, Analytical Thinking, Adaptability
 
 ## Projects
-[This section will grow as you add projects—leave it blank for now or note: "Coming soon with FinTech data projects."]
+[ "Coming soon with FinTech data projects."]
 
 ## Contact
 - Email: ibrahim.hamdi.finance@gmail.com
